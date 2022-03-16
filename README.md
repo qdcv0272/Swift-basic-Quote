@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h3>🔧 랜덤 로직 🔧</h3>
+<h3>🔧 code review 🔧</h3>
 
 ```Swift
 let random = Int(arc4random_uniform(8)) // quotes 8개 사용
